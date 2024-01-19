@@ -9,7 +9,7 @@ function App() {
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      <Text>App</Text>
+      <Text>NewApp</Text>
     </SafeAreaView>
   );
 }
